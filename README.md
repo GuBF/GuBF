@@ -16,7 +16,7 @@
 
 <div>
   <h2>Contact</h2>
-  <a href="#" aling="center"><img height="30" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/><p>Gustavo Barros#2510</p></a>
+  <a href="#" aling="center"><img height="30" src="https://img.shields.io/badge/Gustavo%20Barros%232510-404eed?style=flat-square&logo=discord&logoColor=ffffff&?logoWidth=20"/></a>
 </div>
 
 
