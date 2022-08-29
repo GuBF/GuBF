@@ -16,7 +16,7 @@
 
 <div>
   <h2>Contact</h2>
-  <a href="https://discord.com/users/592357038017740801" target="_blank" aling="center"><img height="30" src="https://img.shields.io/badge/Gustavo%20Barros%232510-404eed?style=flat-square&logo=discord&logoColor=ffffff&?logoWidth=20"/></a>
+  <a href="https://discord.com/users/592357038017740801" target="blank" aling="center"><img height="30" src="https://img.shields.io/badge/Gustavo%20Barros%232510-404eed?style=flat-square&logo=discord&logoColor=ffffff&?logoWidth=20"/></a>
 </div>
 
 
