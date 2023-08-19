@@ -9,9 +9,7 @@
 <br>
 <h2>Programming languages</h2>
 <div style="display: inline_block"><br>
-  <a href="#"><img align="center" alt="Rafa-Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-  <a href="#"><img align="center" alt="Rafa-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="#"><img align="center" alt="Rafa-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="#" ><img align="center" src="https://skillicons.dev/icons?i=javascript,html,css"><!-- <span width="5" ></span><img align="center" height="46" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge">--></a>
 </div>
 
 <div>
