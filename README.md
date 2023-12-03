@@ -1,5 +1,4 @@
-<h1>Hello I'm Gustavo</h1>
-<p>I'm an intermediate programmer and frontend developer with a lot to learn</p>
+<img src="./src/hello.svg">
 <div>
   <a href="https://github.com/gubf">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gubf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=6&bg_color=18,4c4cd4,2b2b52&icon_color=ffffff&title_color=ffffff"/>
