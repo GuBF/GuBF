@@ -6,9 +6,6 @@
   </a>
 </div>
 <br>
-<h2>Programming languages</h2>
-<div style="display: inline_block"><br>
-  <a href="#" ><img align="center" src="https://skillicons.dev/icons?i=javascript,html,css"><!-- <span width="5" ></span><img align="center" height="46" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge">--></a>
 </div>
 
 <div>
